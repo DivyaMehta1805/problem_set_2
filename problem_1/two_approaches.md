@@ -12,4 +12,4 @@ Two Solutions to the Problem
 I chose the first solution for these reasons:
 
 * Graphs allow for easy updates to node structures when new attributes are added from additional data.
-* Graph traversals efficiently handle complex queries. For example, finding people working in companies attending tech events, who previously worked for companies now attending pharmaceutical events, is optimized by traversing the relationships within the graph.
+* Graph traversal algorithms can be applied to efficiently handle complex queries. For example, finding people working in companies attending tech events, who previously worked for companies now attending pharmaceutical events, is optimized by traversing the relationships within the graph.
