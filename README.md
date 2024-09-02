@@ -1,5 +1,5 @@
 # Structure
-* problem 1 solution consists of 1 file, problem_1/graphdb.py. Please run graphdb.py to see some sample filtering.
+* problem 1 solution consists of 2 file, problem_1/graphdb.py and problem_1/two_approaches.md. Please run graphdb.py to see some sample filtering.
 * problem 2 solution consists of 2 files, problem_2/generate_sample.py and problem_2/querygenerator.py. Please run the latter, which depends upon the former.
 * problem 3 solution consists of problem_3/improve_sql.md
 
